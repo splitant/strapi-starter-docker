@@ -1,0 +1,8 @@
+.tmp/
+.cache/
+.git/
+.gitignore
+build/
+node_modules/
+data/
+.strapi-updater.json
